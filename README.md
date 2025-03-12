@@ -122,6 +122,15 @@ Update the base url according to your requirement inside every fetch API request
 ```bash
 npm start
 ```
+### Screenshot 
+
+<img width="1440" alt="Screenshot 2025-03-12 at 10 22 57 PM" src="https://github.com/user-attachments/assets/c54ccefd-422f-4e5d-8df0-22b30c31ceee" />
+
+<img width="1440" alt="Screenshot 2025-03-12 at 10 23 08 PM" src="https://github.com/user-attachments/assets/cffd3129-e624-4b04-87f1-b574f18ac3e0" />
+
+<img width="1440" alt="Screenshot 2025-03-13 at 12 59 02 AM" src="https://github.com/user-attachments/assets/5a2b4699-2acf-4f66-b095-f49062fbdcd9" />
+
+
 
 ### Usage
 
